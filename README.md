@@ -9,7 +9,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Final project of NLP - FI, UNAM. <br>
 An AI model for Natural Lenguage Proccesing based on a Neuronal Network.<br>
 NOTE: To know more about this project you can check our PDF documentation [Not available]()
 
